@@ -53,7 +53,6 @@ Comparing rank bands reveals that moving from Band 1 (Ranks 1–25) to Bands 2 &
 | :--- | :--- | :--- |
 | **Interactive Dashboard** | [`dashboard.html`](dashboard.html) | Standalone interactive UI with Tailwind CSS, Chart.js, bubble scatter plot, rank band bar charts, state breakdown, and searchable college explorer. |
 | **One-Page Insight Memo** | [`INSIGHT_MEMO.md`](INSIGHT_MEMO.md) | Formatted briefing memo answering the stakeholder's dilemma with 3 numerical insights, 1 decision rule, and honest data limits. |
-| **2-Minute Video Script** | [`VIDEO_SCRIPT.md`](VIDEO_SCRIPT.md) | Word-for-word spoken presentation script with exact time brackets (0:00–0:15 hook, 0:15–1:15 dashboard, 1:15–1:45 methodology, 1:45–2:00 recommendation). |
 | **Demo Day Q&A Prep** | [`DEMO_DAY_QA.md`](DEMO_DAY_QA.md) | In-depth answers for the three mandatory evaluation questions (data checking, value metric choice, median salary limitations). |
 | **Jupyter Notebook** | [`analysis_walkthrough.ipynb`](analysis_walkthrough.ipynb) | Reproducible walkthrough with formulas, aggregations, and tables. |
 | **Merged Dataset** | [`colleges_final.csv`](colleges_final.csv) | Master table joining NIRF placement data with audited 4-year academic fees across all 100 institutions. |
@@ -80,7 +79,6 @@ NIRF_Ranking_Analytics/
 ├── fee_extraction_issues.csv     # Traceability log for PG-only non-eligible institutes
 ├── dashboard.html                # Interactive visual dashboard
 ├── INSIGHT_MEMO.md               # 1-page executive insight memo
-├── VIDEO_SCRIPT.md               # 2-minute video pitch script with timestamps
 ├── DEMO_DAY_QA.md                # Demo day Q&A defense document
 ├── fee_sources.md                # Source URLs and official circular references
 └── analysis_walkthrough.ipynb    # Python walkthrough notebook
